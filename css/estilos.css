@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hen{
+    color:rgb(250, 245, 245); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+.henr{
+    color:rgb(50, 184, 17); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+}
+.henry{
+    color:rgb(39, 218, 15); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;}
+        
+    .pie{
+        background: #140b5c;
+    }
+    
+    .nom{
+        padding: 20px;
+        background: #0a0433;
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(247, 241, 241);
+    }
